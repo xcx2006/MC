@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-04T00:16:43.390Z</updated>
+  <updated>2024-08-04T00:19:27.543Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2024/08/04/Test/"/>
-    <id>http://example.com/2024/08/04/Test/</id>
-    <published>2024-08-04T00:16:43.390Z</published>
-    <updated>2024-08-04T00:16:43.390Z</updated>
+    <title>rest</title>
+    <link href="http://example.com/2040/08/04/Test/"/>
+    <id>http://example.com/2040/08/04/Test/</id>
+    <published>2040-08-04T07:59:53.000Z</published>
+    <updated>2024-08-04T00:19:27.543Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是乱写的</p>]]></content>
     
@@ -33,6 +33,12 @@
     
     
     
+    <category term="test" scheme="http://example.com/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+    <category term="不知道什么东西" scheme="http://example.com/tags/%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF/"/>
     
   </entry>
   
